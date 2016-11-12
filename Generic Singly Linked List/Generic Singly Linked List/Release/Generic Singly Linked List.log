@@ -1,0 +1,17 @@
+﻿Build started 11/11/2016 9:19:43 PM.
+     1>Project "C:\Users\Firebird854\Documents\Data Strutures and Algorithms Book\My Creations\Generic Singly Linked List\Generic Singly Linked List\Generic Singly Linked List.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Generic Singly Linked List.cpp"
+         Generic Singly Linked List.cpp
+     1>c:\users\firebird854\documents\data strutures and algorithms book\my creations\generic singly linked list\generic singly linked list\GSLinkedList.h(22): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Firebird854\Documents\Data Strutures and Algorithms Book\My Creations\Generic Singly Linked List\Release\Generic Singly Linked List.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Firebird854\Documents\Data Strutures and Algorithms Book\My Creations\Generic Singly Linked List\Release\Generic Singly Linked List.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Firebird854\Documents\Data Strutures and Algorithms Book\My Creations\Generic Singly Linked List\Release\Generic Singly Linked List.lib" /MACHINE:X86 /SAFESEH "Release\Generic Singly Linked List.obj"
+         Generating code
+         All 43 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         Generic Singly Linked List.vcxproj -> C:\Users\Firebird854\Documents\Data Strutures and Algorithms Book\My Creations\Generic Singly Linked List\Release\Generic Singly Linked List.exe
+     1>Done Building Project "C:\Users\Firebird854\Documents\Data Strutures and Algorithms Book\My Creations\Generic Singly Linked List\Generic Singly Linked List\Generic Singly Linked List.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65
